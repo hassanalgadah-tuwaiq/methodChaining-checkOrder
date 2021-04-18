@@ -69,7 +69,7 @@ namespace ConsoleApp1
                 XOR(1).
                 get();
             Console.WriteLine(result);
-            Console.WriteLine("/////////////////////////////////////////////////////");
+            Console.WriteLine("//////////////////////////////////////////////////////");
             Console.WriteLine("Check order: ");
             Console.WriteLine(checkOrder("123456789987654321"));
         }
